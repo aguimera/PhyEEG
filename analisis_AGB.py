@@ -7,7 +7,9 @@ import numpy as np
 from PhyREC import SignalProcess as Spro
 from PhyREC import PlotWaves as Rplt
 from PhyREC import SignalAnalysis as San
+import matplotlib as mpl
 
+mpl.use('Qt5Agg')
 
 plt.close('all')
 
@@ -19,11 +21,11 @@ freqs = Freqs/(0.5 * Freqs)
 comparativa = []
 # RAW
 # Càrreguem les dades a un dataframe
-electrode_laia = pd.read_table('231123.exp2.txt', sep=', ', header=4)
+electrode_laia = pd.read_table('./data/231123/231123.exp2.txt', sep=', ', header=4)
 electrode_laia = electrode_laia.iloc[:, 1]
 
 
-electrode_comercial = pd.read_table('231123.exp2.txt', sep=', ', header=4)
+electrode_comercial = pd.read_table('./data/231123/231123.exp2.txt', sep=', ', header=4)
 electrode_comercial = electrode_comercial.iloc[:, 2]
 
 comparativa = pd.concat([electrode_laia ,electrode_comercial], axis=1)
