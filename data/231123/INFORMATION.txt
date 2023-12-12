@@ -1,0 +1,8 @@
+EXPERIMENT FET EL DIA 23-11-23
+la carpeta consta de 4 gravacions per fer comparativa entre electrode real i electrode comercial. 
+EN TOTES AQUESTES PROVES EL ELECTRODE DE LA LAIA HA FET DE BIAS
+
+	- 231123.exp1 mesura de resistència just al començar les proves dades captades canal 1 Laia
+	- 231123.exp2 relaxació dades captades per canal 1 amb l'electrode Laia i canal 2 electrode comercial
+	- 231123.exp3 rutina d'exercicis dades captades per canal 1 amb l'electrode Laia i canal 2 electrode comercial
+	- 231123.exp4 mesura de resistència just al acabar les proves dades captades canal 1 Laia i canal 2 electrode comercial

@@ -1,0 +1,14 @@
+EXPERIMENT FET EL DIA 13-07-23
+la carpeta consta de  gravacions observar el comportament del dispositiu amb diferents electrodes.
+ 
+
+	- 130723.exp1 dades captades pel canal 1 amb un electrode comercial
+	- 130723.exp2 dades captades pel canal 1 amb un electrode TPU
+	- 130723.exp3 dades captades pel canal 1 amb un electrode TPU i Kapton
+	- 130723.exp4 rutina d'exercicis dades captades pel canal 1 amb electrode TPU
+	- 130723.exp5 rutina d'exercicis dades captades pel canal 1 amb electrode TPU i Kapton
+	- 130723.exp6 prova al aire per caracteritzar soroll del ADS1299
+	- 130723.exp7 interferències al tocar els cables dades captades pel canal 1 amb electrode TPU
+	- 130723.exp8 interferències al tocar els cables dades captades pel canal 1 amb electrode TPU i Kapton
+	
+	

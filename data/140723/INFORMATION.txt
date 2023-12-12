@@ -1,0 +1,7 @@
+EXPERIMENT FET EL DIA 14-07-23
+la carpeta consta de 4 gravacions per caracteritzar el soroll. 
+
+	- 140723.exp1 interferències al tocar els pads
+	- 140723.exp2 interferències al tocar els cables
+	- 140723.exp3 interferències al tocar els pads i els cables
+	- 140723.exp4 interferències al posicionar el tatoo amb un angle recte
